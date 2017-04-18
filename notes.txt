@@ -1,0 +1,4 @@
+Content
+
+top:	Displays the resources being used on your system. Press q to
+exit.
